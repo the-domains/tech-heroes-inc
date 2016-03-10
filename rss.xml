@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tech Heroes Inc.]]></title>
-        <description><![CDATA[Tech Heroes Inc.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Protecting the world one PC at a time]]></title>
+        <description><![CDATA[Protecting the world one PC at a time]]></description>
+        <link>https://thegrid.ai/tech-heroes-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 22:50:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 23:23:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tech-heroes-inc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This Website was created by an AI. The Rolling Stones Magazine just published an article about the growing artificial intelligence revolution and how its changing our world today. </p>]]></description>
-            <link>undefinedthis-website-was-created-by-an-ai-the-rolling-stones-magazi/index.html</link>
+            <link>https://thegrid.ai/tech-heroes-inc/this-website-was-created-by-an-ai-the-rolling-stones-magazi/index.html</link>
             <guid isPermaLink="false">e14637a7-78f3-4af6-bb98-3e9534d3bd0f</guid>
-            <pubDate>Thu, 10 Mar 2016 22:49:59 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 23:23:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
